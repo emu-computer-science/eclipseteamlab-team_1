@@ -11,7 +11,7 @@ public class Hungry {
 		}
 	
 	public static void yee() {
-		System.out.println("YEEEEE");
+		System.out.println("YEEEEEE");
 	}
 	
 	
