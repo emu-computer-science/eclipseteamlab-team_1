@@ -10,5 +10,9 @@ public class Hungry {
 		System.out.println("WE are all hungry");
 		}
 	
+	public static void yee() {
+		System.out.println("YEEEEE");
+	}
+	
 	
 }
