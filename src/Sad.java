@@ -5,5 +5,10 @@ public class Sad {
 	{
 		System.out.println("I AM SAD");
 	}
+	
+	public static void moreSad()
+	{
+		System.out.println("I am more sad.");
+	}
 
 }

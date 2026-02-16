@@ -10,6 +10,7 @@ public class Driver {
 		Glad.glad();
 		
 		Sad.sad();
+		Sad.moreSad();
 	}
 
 }
