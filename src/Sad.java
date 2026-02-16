@@ -8,7 +8,7 @@ public class Sad {
 	
 	public static void moreSad()
 	{
-		System.out.println("I am more sad.");
+		System.out.println("I am more sad!");
 	}
 
 }
